@@ -1,0 +1,4 @@
+streamlit
+requests
+pandas
+pickle5  # Needed for handling .pkl files
