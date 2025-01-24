@@ -1,4 +1,4 @@
 streamlit
-requests
 pandas
-pickle5  
+requests
+pickle5
